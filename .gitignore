@@ -1,5 +1,7 @@
 .DS_Store
 node_modules
+.pnp.js
+.pnp
 /dist
 
 # local env files
